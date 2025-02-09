@@ -8,7 +8,7 @@
   <a href="[Portfolio](https://devin-rider-portfolio.onrender.com/index.html)">
     <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=web" />
   </a>
-  <a href="mailto:riderdevin@yahoo.com">
+  <a href="mailto:riderdevinwork@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -26,28 +26,20 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,mysql,nodejs,python,postgresql,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,mysql,nodejs,python,postgresql,html,css,git,github,figma," />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Squiege&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squiege&layout=compact&theme=radical" width="40%" />
-</p>
+## 👾 Codewars
+[![CodeWars Stats](https://www.codewars.com/users/Deblin/badges/large)](https://www.codewars.com/users/Deblin)
+
 
 ---
 
-## 📢 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blueviolet?style=for-the-badge&logo=web" />
-  </a>
-  <a href="mailto:riderdevin@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+## 🎯 Projects 
+-  [CI / CD Ecommerce Backend](https://github.com/Squiege/CI-CD-Mini-Project)
+-  [WebSocket ChatApp](https://github.com/Squiege/BE-WebSocket-ChatApp-Project)
+-  [Movie Database Handler](https://github.com/Squiege/BE-GraphQL-MovieDatabase)
+-  [React Ecommerce Webpage](https://github.com/Squiege/React-Ecommerce-Project)
+
