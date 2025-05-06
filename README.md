@@ -17,8 +17,8 @@
 
 ## 👨‍💻 About Me  
 🔹 **Software Engineer** with a passion for **Web Apps, Backend Development, and Game Development**.  
-🔹 Building a **React To Do Web App** 📚.  
-🔹 Learning **Game Maker and GML** for game dev 🎮.  
+🔹 Building tests for web apps.  
+🔹 Learning **Cypress** for web app testing.  
 🔹 Working on **Foundry VTT modules** for D&D 🏰.  
 🔹 Always exploring **new technologies and learning new languages**!  
 
